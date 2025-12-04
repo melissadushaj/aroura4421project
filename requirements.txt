@@ -1,0 +1,7 @@
+pygame==2.6.1
+Pillow==10.0.0          # For display (PIL) drawing
+gpiozero==1.6.2         # For servo control
+spidev==3.6             # For Waveshare SPI LCD
+numpy==1.26.4           # Some Waveshare examples use it, PIL can use it
+colorzero==2.0          # gpiozero dependency, sometimes needed
+
